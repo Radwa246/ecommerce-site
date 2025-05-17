@@ -129,4 +129,4 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'mikeschulte990@gmail.com'        # Replace this
-EMAIL_HOST_PASSWORD = 'quju cxof pkfa otwc'     # Replace this
+EMAIL_HOST_PASSWORD = 'veje dvck mmyz ypgr'     # Replace this
